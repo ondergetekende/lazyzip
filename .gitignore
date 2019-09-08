@@ -1,0 +1,4 @@
+.*/
+.py[doc]
+*.egg-info/
+__pycache__
